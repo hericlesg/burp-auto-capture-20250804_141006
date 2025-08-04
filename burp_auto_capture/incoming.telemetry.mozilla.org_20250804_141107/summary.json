@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250804_141107", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141107/request_001.txt", 
+      "url": "https://incoming.telemetry.mozilla.org:443/submit/telemetry/9ca83543-6e7e-49d0-9ca1-32f03f52d129/event/Firefox/140.0.4/release/20250707120347?v=4", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141107/response_001.txt", 
+      "timestamp": 1754327436257
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141107/request_002.txt", 
+      "url": "https://incoming.telemetry.mozilla.org:443/submit/telemetry/186348e8-37dd-4213-a28c-056869cda79a/main/Firefox/140.0.4/release/20250707120347?v=4", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141107/response_002.txt", 
+      "timestamp": 1754327436286
+    }
+  ], 
+  "host": "incoming.telemetry.mozilla.org", 
+  "total_requests": 2
+}
