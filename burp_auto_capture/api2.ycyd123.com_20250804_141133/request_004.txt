@@ -1,0 +1,26 @@
+GET /api/frontend/trpc/prizePool.info?input=%7B%22json%22%3A%7B%7D%7D HTTP/2
+Host: api2.ycyd123.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://56bdt.com/
+Content-Type: application/json
+Tenantid: 5243630
+X-Trace-Id: JZF5BFDQ
+X-Device-Type: DesktopOS
+X-Device-Id: b53dd88a-125e-48ec-8551-4bbcbc19ab91
+Client-Language: pt-BR
+X-Client-Version: v159
+Origin: https://56bdt.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: Bearer null
+Channelid: 
+X-Tag: 
+If-Modified-Since: Mon, 04 Aug 2025 17:09:54 GMT
+Priority: u=6
+Cache-Control: max-age=0
+Te: trailers
+
