@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250804_141126", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250804_141126/request_001.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/b/turnstile/if/ov2/av0/rcv/t7d80/0x4AAAAAAAiHEkDee-yqSdMj/auto/fbE/new/flexible/auto/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250804_141126/response_001.txt", 
+      "timestamp": 1754327410364
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250804_141126/request_002.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/b/turnstile/if/ov2/av0/rcv/t7d80/0x4AAAAAAAiHEkDee-yqSdMj/auto/fbE/crashed_retry/flexible/auto/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250804_141126/response_002.txt", 
+      "timestamp": 1754327422168
+    }
+  ], 
+  "host": "challenges.cloudflare.com", 
+  "total_requests": 2
+}
