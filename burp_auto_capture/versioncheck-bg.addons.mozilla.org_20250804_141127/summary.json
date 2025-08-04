@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250804_141127", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/versioncheck-bg.addons.mozilla.org_20250804_141127/request_001.txt", 
+      "url": "https://versioncheck-bg.addons.mozilla.org:443/update/VersionCheck.php?reqVersion=2&id=uBlock0@raymondhill.net&version=1.65.0&maxAppVersion=null&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=140.0.4&appOS=WINNT&appABI=x86_64-msvc&locale=pt-BR&currentAppVersion=140.0.4&updateType=112&compatMode=normal", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/versioncheck-bg.addons.mozilla.org_20250804_141127/response_001.txt", 
+      "timestamp": 1754327408925
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/versioncheck-bg.addons.mozilla.org_20250804_141127/request_002.txt", 
+      "url": "https://versioncheck-bg.addons.mozilla.org:443/update/VersionCheck.php?reqVersion=2&id={a6c4a591-f1b2-4f03-b3ff-767e5bedf4e7}&version=0.6.5.1&maxAppVersion=*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=140.0.4&appOS=WINNT&appABI=x86_64-msvc&locale=pt-BR&currentAppVersion=140.0.4&updateType=112&compatMode=normal", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/versioncheck-bg.addons.mozilla.org_20250804_141127/response_002.txt", 
+      "timestamp": 1754327408925
+    }
+  ], 
+  "host": "versioncheck-bg.addons.mozilla.org", 
+  "total_requests": 2
+}
