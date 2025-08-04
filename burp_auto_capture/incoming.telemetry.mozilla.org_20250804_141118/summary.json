@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250804_141118", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/request_001.txt", 
+      "url": "https://incoming.telemetry.mozilla.org:443/submit/telemetry/9ca83543-6e7e-49d0-9ca1-32f03f52d129/event/Firefox/140.0.4/release/20250707120347?v=4", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/response_001.txt", 
+      "timestamp": 1754327436257
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/request_002.txt", 
+      "url": "https://incoming.telemetry.mozilla.org:443/submit/telemetry/186348e8-37dd-4213-a28c-056869cda79a/main/Firefox/140.0.4/release/20250707120347?v=4", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/response_002.txt", 
+      "timestamp": 1754327436286
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/request_003.txt", 
+      "url": "https://incoming.telemetry.mozilla.org:443/submit/firefox-desktop/captcha-detection/1/1402aa18-c842-412a-9eeb-3078bbf28981", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/response_003.txt", 
+      "timestamp": 1754327454293
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/request_004.txt", 
+      "url": "https://incoming.telemetry.mozilla.org:443/submit/firefox-desktop/captcha-detection/1/1402aa18-c842-412a-9eeb-3078bbf28981", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/incoming.telemetry.mozilla.org_20250804_141118/response_004.txt", 
+      "timestamp": 1754327464224
+    }
+  ], 
+  "host": "incoming.telemetry.mozilla.org", 
+  "total_requests": 4
+}
