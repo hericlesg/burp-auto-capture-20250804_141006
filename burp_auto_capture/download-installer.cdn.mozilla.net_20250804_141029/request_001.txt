@@ -1,0 +1,12 @@
+GET /pub/firefox/releases/141.0/update/win64/pt-BR/firefox-140.0.4-141.0.partial.mar HTTP/1.1
+Host: download-installer.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Te: trailers
+Connection: close
+
