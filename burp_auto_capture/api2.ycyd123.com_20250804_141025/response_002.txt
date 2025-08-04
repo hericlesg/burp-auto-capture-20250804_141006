@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 04 Aug 2025 17:10:09 GMT
+Content-Type: application/json
+Cf-Ray: 969faaa50d23a4a8-GRU
+Cf-Cache-Status: HIT
+Age: 0
+Cache-Control: s-maxage=10, max-age=10, stale-while-revalidate=50, stale-if-error=86400
+Last-Modified: Mon, 04 Aug 2025 17:10:09 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 04 Aug 2025 17:10:09 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 11889218893040135288
+X-Fc-Instance-Id: c-6890e630-0a7f722b-b887e5ceada2
+X-Fc-Invocation-Duration: 85
+X-Fc-Invocation-Service-Version: 114
+X-Fc-Max-Memory-Usage: 882.34
+X-Fc-Request-Id: 1-6890e971-0a79f0b9-4e1445d15803
+X-Original-Cache-Control: s-maxage=10, max-age=10, stale-while-revalidate=50, stale-if-error=86400
+X-Trace-Id: AD4PR7RT
+Set-Cookie: __cf_bm=iZOLL8SFYKcDWbbJ4ZrsjpueyS5bwkSN4NrwolhOoi8-1754327409-1.0.1.1-IqRowMPqZ38CgHKSAFheaXh_h16wZucW9ymSSg7IRxW7r94pt5SNx4N0kus1kYsvzuupztDaPXlvnItOovs3myTlgh_9tloo8p0YQNTpFNI; path=/; expires=Mon, 04-Aug-25 17:40:09 GMT; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=kebbXTOoJUby2No3g5q2OqnlfvJLbxqk_UOU1UzQIl0-1754327409488-0.0.1.1-604800000; path=/; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":{"accountRegisterSwitch":false,"accountRegisterShowPhone":false,"accountRegisterPhoneRequired":false,"accountRegisterPhoneValidate":false,"phoneRegisterSwitch":true,"phoneRegisterPhoneValidate":false,"googleRegisterSwitch":false,"captchaSwitch":"ON","imageCaptchaSwitch":"OFF","loginCaptcha":"OFF","loginType":["Phone"],"needCpf":true,"needRealName":false,"needBirthday":false,"needRealNameInput":false,"thirdPartyLogin":"","thirdPartyAuthInfo":[],"regionConfig":{"smsSwitch":false,"registerType":["Phone","Google"],"currencySymbol":"fiat"}}}}}
