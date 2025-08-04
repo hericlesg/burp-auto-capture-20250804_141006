@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250804_141038", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api2.ycyd123.com_20250804_141038/request_001.txt", 
+      "url": "https://api2.ycyd123.com:443/api/frontend/trpc/auth.tenants?input=%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%7D%7D", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api2.ycyd123.com_20250804_141038/response_001.txt", 
+      "timestamp": 1754327410191
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api2.ycyd123.com_20250804_141038/request_002.txt", 
+      "url": "https://api2.ycyd123.com:443/api/frontend/trpc/auth.info?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/api2.ycyd123.com_20250804_141038/response_002.txt", 
+      "timestamp": 1754327410235
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.ycyd123.com_20250804_141038/request_003.txt", 
+      "url": "https://api2.ycyd123.com:443/api/frontend/trpc/auth.registe", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/api2.ycyd123.com_20250804_141038/response_003.txt", 
+      "timestamp": 1754327424151
+    }
+  ], 
+  "host": "api2.ycyd123.com", 
+  "total_requests": 3
+}
