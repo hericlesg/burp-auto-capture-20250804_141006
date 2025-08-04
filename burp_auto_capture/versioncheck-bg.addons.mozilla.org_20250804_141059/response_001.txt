@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Server: openresty
+Date: Mon, 04 Aug 2025 17:10:08 GMT
+Content-Type: application/json
+Content-Length: 445
+Cache-Control: max-age=3600
+X-Amo-Request-Id: ee1f905435984859842cbdca31cc3d59
+Etag: W/"a7ef712705c36a0b91f4663f6374c76c"
+Content-Security-Policy: script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; media-src https://videos.cdn.mozilla.net; object-src 'none'; child-src https://www.recaptcha.net/recaptcha/; font-src 'self' https://addons.mozilla.org/static-server/; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; frame-src https://www.recaptcha.net/recaptcha/; form-action 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; default-src 'none'; report-uri /__cspreport__
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+Vary: Accept-Encoding
+Via: 1.1 google, 1.1 google
+X-Cache-Status: miss
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"addons": {"uBlock0@raymondhill.net": {"updates": [{"version": "1.65.0", "update_link": "https://addons.mozilla.org/firefox/downloads/file/4531307/ublock_origin-1.65.0.xpi", "applications": {"gecko": {"strict_min_version": "92.0"}}, "update_hash": "sha256:3e73c96a29a933866065f0756fe032984bf5b254af8dd1afd7a7f7e0668a33cf", "update_info_url": "https://addons.mozilla.org/%APP_LOCALE%/firefox/addon/ublock-origin/versions/1.65.0/updateinfo/"}]}}}
