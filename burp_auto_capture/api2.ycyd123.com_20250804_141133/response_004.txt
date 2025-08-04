@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 04 Aug 2025 17:10:56 GMT
+Content-Type: application/json
+Cf-Ray: 969fabcdbd78f256-GRU
+Cf-Cache-Status: HIT
+Age: 14
+Cache-Control: s-maxage=15, max-age=15, stale-while-revalidate=75, stale-if-error=86400
+Last-Modified: Mon, 04 Aug 2025 17:10:42 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 04 Aug 2025 17:10:42 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 3416757046933759566
+X-Fc-Instance-Id: c-6890e96b-0a7f722b-8bd724fa21e2
+X-Fc-Invocation-Duration: 36
+X-Fc-Invocation-Service-Version: 116
+X-Fc-Max-Memory-Usage: 787.11
+X-Fc-Request-Id: 1-6890e992-0a81ecfd-177a91e64d96
+X-Original-Cache-Control: s-maxage=15, max-age=15, stale-while-revalidate=75, stale-if-error=86400
+X-Trace-Id: IXW3P6YE
+Set-Cookie: __cf_bm=jvlPYnFnYsz6KQ_FuTDJIWFLbBvF7g2uFEJ8oyfGUrU-1754327456-1.0.1.1-nE98DhHw98mVCa69RSyGSVs6ro4MseehdgEbbRXeU1y68y48hjtmEb5jDCBPUM_URuaZ9NLCV1jJ1Q2BnWSIEWDlm_RlQ5ZdozStnNdWV5o; path=/; expires=Mon, 04-Aug-25 17:40:56 GMT; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=bkjLR0hyW4PUPS2MnVDbDXVrDw3SfFIGCY2BE0T3WXQ-1754327456954-0.0.1.1-604800000; path=/; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":[{"time":1754327400000,"prizePoolValue":1862704394},{"time":1754327403000,"prizePoolValue":1862731539},{"time":1754327406000,"prizePoolValue":1862780688},{"time":1754327409000,"prizePoolValue":1862798618},{"time":1754327412000,"prizePoolValue":1862847875},{"time":1754327415000,"prizePoolValue":1862915739},{"time":1754327418000,"prizePoolValue":1862955222},{"time":1754327421000,"prizePoolValue":1863053202},{"time":1754327424000,"prizePoolValue":1863114636},{"time":1754327427000,"prizePoolValue":1863211547},{"time":1754327430000,"prizePoolValue":1863305541},{"time":1754327433000,"prizePoolValue":1863372820},{"time":1754327436000,"prizePoolValue":1863441842},{"time":1754327439000,"prizePoolValue":1863533478},{"time":1754327442000,"prizePoolValue":1863574501},{"time":1754327445000,"prizePoolValue":1863663540},{"time":1754327448000,"prizePoolValue":1863745351},{"time":1754327451000,"prizePoolValue":1863806819},{"time":1754327454000,"prizePoolValue":1863868682},{"time":1754327457000,"prizePoolValue":1863899771},{"time":1754327460000,"prizePoolValue":1863927479},{"time":1754327463000,"prizePoolValue":1863992284},{"time":1754327466000,"prizePoolValue":1864051465},{"time":1754327469000,"prizePoolValue":1864085478},{"time":1754327472000,"prizePoolValue":1864145824},{"time":1754327475000,"prizePoolValue":1864156250},{"time":1754327478000,"prizePoolValue":1864201853},{"time":1754327481000,"prizePoolValue":1864271468},{"time":1754327484000,"prizePoolValue":1864325947},{"time":1754327487000,"prizePoolValue":1864407868},{"time":1754327490000,"prizePoolValue":1864492280},{"time":1754327493000,"prizePoolValue":1864505504},{"time":1754327496000,"prizePoolValue":1864586492},{"time":1754327499000,"prizePoolValue":1864605353},{"time":1754327502000,"prizePoolValue":1864625304},{"time":1754327505000,"prizePoolValue":1864650380},{"time":1754327508000,"prizePoolValue":1864711948},{"time":1754327511000,"prizePoolValue":1864796376},{"time":1754327514000,"prizePoolValue":1864824246},{"time":1754327517000,"prizePoolValue":1864874260},{"time":1754327520000,"prizePoolValue":1864886127}]}}}
