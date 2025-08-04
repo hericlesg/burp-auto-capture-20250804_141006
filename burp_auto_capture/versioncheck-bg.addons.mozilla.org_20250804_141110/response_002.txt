@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Server: openresty
+Date: Mon, 04 Aug 2025 17:10:08 GMT
+Content-Type: application/json
+Content-Length: 490
+Cache-Control: max-age=3600
+X-Amo-Request-Id: 99b5a328b6de45abb2ba0f735447ca69
+Etag: W/"315e3524a3e86a6c56f6bf81d1b5b99e"
+Content-Security-Policy: default-src 'none'; media-src https://videos.cdn.mozilla.net; frame-src https://www.recaptcha.net/recaptcha/; child-src https://www.recaptcha.net/recaptcha/; script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; font-src 'self' https://addons.mozilla.org/static-server/; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; form-action 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; object-src 'none'; report-uri /__cspreport__
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+Vary: Accept-Encoding
+Via: 1.1 google, 1.1 google
+X-Cache-Status: miss
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"addons": {"{a6c4a591-f1b2-4f03-b3ff-767e5bedf4e7}": {"updates": [{"version": "0.6.5.1", "update_link": "https://addons.mozilla.org/firefox/downloads/file/4497925/user_agent_string_switcher-0.6.5.1.xpi", "applications": {"gecko": {"strict_min_version": "132.0"}}, "update_hash": "sha256:aaaf7cfc3434b42836fd0c152a218dbf5e405f65095a8d8f431578461a34c171", "update_info_url": "https://addons.mozilla.org/%APP_LOCALE%/firefox/addon/user-agent-string-switcher/versions/0.6.5.1/updateinfo/"}]}}}
