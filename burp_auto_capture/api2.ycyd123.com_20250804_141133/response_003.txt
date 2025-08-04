@@ -1,0 +1,29 @@
+HTTP/2 400 Bad Request
+Date: Mon, 04 Aug 2025 17:10:23 GMT
+Content-Type: application/json
+Content-Length: 143
+Cf-Ray: 969faafaebc5a4a8-GRU
+Cf-Cache-Status: DYNAMIC
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+X-Cache-Source: ORIGIN
+X-Cache-Status: MISS
+X-Fc-Code-Checksum: 13593352203144545234
+X-Fc-Instance-Id: c-6890e835-0a7f722b-d6e0af88bbae
+X-Fc-Invocation-Duration: 26
+X-Fc-Invocation-Service-Version: 112
+X-Fc-Max-Memory-Usage: 652.07
+X-Fc-Request-Id: 1-6890e97f-0a3a3400-42d89dad7efe
+X-Trace-Id: 4RHWU72Z
+Set-Cookie: __cf_bm=eai6dfmIhBwkH2zsndmBLsENbqR1aZB_YnymeigmN_w-1754327423-1.0.1.1-rMFrytLlyShEDdZdB7tCLu8HPDdlbRfCWu3Ru3YtvPmvZvi4p7.OaPKDXxrD8fn1n9BJiX7JZ3aPghSO0978iZRWz0dK1._ARGrruEHgIDI; path=/; expires=Mon, 04-Aug-25 17:40:23 GMT; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=8loGeLDYm5kYSyiBPpAviWvKkDmInM4MfMHss8dLQEw-1754327423404-0.0.1.1-604800000; path=/; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"error":{"json":{"message":"VerificaÃ§Ã£o humana falhou","code":-32600,"data":{"code":"BAD_REQUEST","httpStatus":400,"path":"auth.registe"}}}}
