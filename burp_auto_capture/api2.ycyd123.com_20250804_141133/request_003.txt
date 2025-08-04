@@ -1,0 +1,26 @@
+POST /api/frontend/trpc/auth.registe HTTP/2
+Host: api2.ycyd123.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 301
+Referer: https://56bdt.com/
+Tenantid: 5243630
+X-Trace-Id: 4RHWU72Z
+X-Device-Type: DesktopOS
+X-Device-Id: b53dd88a-125e-48ec-8551-4bbcbc19ab91
+Client-Language: pt-BR
+X-Client-Version: v159
+Origin: https://56bdt.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: Bearer null
+Channelid: 
+X-Tag: 
+Priority: u=4
+Te: trailers
+
+{"json":{"channelId":0,"username":"62991335797","password":"Senha@123","phoneNumber":"62991335797","registerDevice":"b53dd88a-125e-48ec-8551-4bbcbc19ab91","registerDeviceModel":"web Windows NT 10.0 windows Windows NT 10.0; Win64; x64","registerType":"Phone","cpf":"02726803113","appType":"DesktopOS"}}
