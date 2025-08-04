@@ -1,0 +1,36 @@
+HTTP/2 200 OK
+Date: Mon, 04 Aug 2025 17:10:09 GMT
+Content-Type: application/json
+Content-Length: 31
+Cf-Ray: 969faaa4bce0a4a8-GRU
+Cf-Cache-Status: HIT
+Accept-Ranges: bytes
+Age: 273
+Cache-Control: s-maxage=300, max-age=300, stale-while-revalidate=1500, stale-if-error=86400
+Last-Modified: Mon, 04 Aug 2025 17:05:36 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 04 Aug 2025 17:05:36 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 11889218893040135288
+X-Fc-Instance-Id: c-6890e770-0a7f722b-bde30117b8d5
+X-Fc-Invocation-Duration: 10
+X-Fc-Invocation-Service-Version: 114
+X-Fc-Max-Memory-Usage: 1120.02
+X-Fc-Request-Id: 1-6890e860-0a707acd-336d8cdc1cac
+X-Original-Cache-Control: s-maxage=300, max-age=300, stale-while-revalidate=1500, stale-if-error=86400
+X-Trace-Id: 3LBFRHTS
+Set-Cookie: __cf_bm=Ofq.2yphKOepZ3ct3pRfsAaBIIZHSu_I5BKZlu88uLU-1754327409-1.0.1.1-WOq0MXF05A3iQuxZXun8hH3xo3R17bhS9gv30AbLsbC_SwAlFvPTdUDnj2tISchdhhb77D3p0bCw_FS3zKGX1Z.MBL1mG0ClZqeb9md.xbU; path=/; expires=Mon, 04-Aug-25 17:40:09 GMT; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=yU2UoSfYW4H0voIagYi03bNvQRqluBjEZbk3zbAWYvo-1754327409443-0.0.1.1-604800000; path=/; domain=.ycyd123.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":[]}}}
