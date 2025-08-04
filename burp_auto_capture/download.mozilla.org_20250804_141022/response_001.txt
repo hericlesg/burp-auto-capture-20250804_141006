@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Cache-Control: max-age=60
+Content-Type: text/html; charset=utf-8
+Date: Mon, 04 Aug 2025 17:10:08 GMT
+Location: https://download-installer.cdn.mozilla.net/pub/firefox/releases/141.0/update/win64/pt-BR/firefox-140.0.4-141.0.partial.mar
+Content-Length: 145
+Connection: Close
+
+<a href="https://download-installer.cdn.mozilla.net/pub/firefox/releases/141.0/update/win64/pt-BR/firefox-140.0.4-141.0.partial.mar">Found</a>.
+
