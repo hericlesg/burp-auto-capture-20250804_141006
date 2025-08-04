@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250804_141038", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/services.addons.mozilla.org_20250804_141038/request_001.txt", 
+      "url": "https://services.addons.mozilla.org:443/api/v4/addons/search/?guid=default-theme%40mozilla.org%2Cfirefox-compact-light%40mozilla.org%2Cfirefox-compact-dark%40mozilla.org%2Cfirefox-alpenglow%40mozilla.org%2C%7Ba6c4a591-f1b2-4f03-b3ff-767e5bedf4e7%7D%2CuBlock0%40raymondhill.net&lang=pt-BR", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/services.addons.mozilla.org_20250804_141038/response_001.txt", 
+      "timestamp": 1754327407061
+    }
+  ], 
+  "host": "services.addons.mozilla.org", 
+  "total_requests": 1
+}
