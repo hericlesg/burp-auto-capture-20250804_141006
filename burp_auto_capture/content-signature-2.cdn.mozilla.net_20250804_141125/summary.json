@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250804_141125", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/content-signature-2.cdn.mozilla.net_20250804_141125/request_001.txt", 
+      "url": "https://content-signature-2.cdn.mozilla.net:443/g/chains/202402/aus.content-signature.mozilla.org-2025-09-18-00-54-48.chain", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/content-signature-2.cdn.mozilla.net_20250804_141125/response_001.txt", 
+      "timestamp": 1754327408963
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/content-signature-2.cdn.mozilla.net_20250804_141125/request_002.txt", 
+      "url": "https://content-signature-2.cdn.mozilla.net:443/g/chains/202402/aus.content-signature.mozilla.org-2025-09-18-00-54-48.chain", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/content-signature-2.cdn.mozilla.net_20250804_141125/response_002.txt", 
+      "timestamp": 1754327408965
+    }
+  ], 
+  "host": "content-signature-2.cdn.mozilla.net", 
+  "total_requests": 2
+}
